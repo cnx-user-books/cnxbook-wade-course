@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Digital Elevation Model -- 3-D View</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>91ea35e7-41dd-4f26-96f1-579d4c794264</md:uuid>
+</metadata>
+
+  <content>
+     <figure id="fig1">
+      <media id="idp7899952" alt=""><image src="../../media/gis10_DEM5.jpg" mime-type="image/jpeg"/></media>
+      <caption>An overlay of the Landsat TM 2000 image on the DEM
+creates a most striking birds-eye view of the Los Amigos landscape. Here you
+view down the valley of the Los Amigos River (2) and the smaller watershed
+of the Amiguillos (3). The biological station (yellow outline) sits on a high terrace
+near the mouth of the Los Amigos River, overlooking the Madre de Dios basin. </caption>
+    </figure>
+  </content>
+  
+</document>
